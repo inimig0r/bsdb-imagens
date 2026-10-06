@@ -40,7 +40,7 @@ Por exemplo,
 https://raw.githubusercontent.com/inimig0r/bsdb-imagens/refs/heads/main/bsaq/BSAQ_001.png
 ```
 corresponde a
-![Card Fantasma do Espaço, da coleção Ascensão e Queda](https://github.com/inimig0r/bsdb-imagens/new/main?filename=README.md)
+![Card Fantasma do Espaço, da coleção Ascensão e Queda](https://raw.githubusercontent.com/inimig0r/bsdb-imagens/refs/heads/main/bsaq/BSAQ_001.png)
 ---
 
 ## 🎨 Cartas Fanmade (Conteúdo da Comunidade)
