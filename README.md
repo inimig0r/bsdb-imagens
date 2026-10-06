@@ -1,4 +1,4 @@
-# 🎴 Battle Scenes DB - Repositório de Imagens
+# 🎴 Battle Scenes Database - Repositório de Imagens
 
 Este repositório é um arquivo comunitário dedicado a hospedar e preservar as imagens, artes, cards e ícones do card game **Battle Scenes**, além de conteúdos criados por fãs.
 
@@ -32,16 +32,17 @@ Você pode consumir as imagens diretamente utilizando a CDN pública do GitHub (
 ### Exemplo de uso via URL direta:
 
 ```
-https://raw.githubusercontent.com/inimig0r/bsdb-imagens/main/cards/*NOME_DA_PASTA*/*CARD*.png
+https://raw.githubusercontent.com/inimig0r/bsdb-imagens/main/cards/NOME_DA_PASTA/CARD.png
 ```
 
 Por exemplo, 
 ```
 https://raw.githubusercontent.com/inimig0r/bsdb-imagens/refs/heads/main/bsaq/BSAQ_001.png
 ```
-corresponde a
-![Card Fantasma do Espaço, da coleção Ascensão e Queda](https://raw.githubusercontent.com/inimig0r/bsdb-imagens/refs/heads/main/bsaq/BSAQ_001.png)
----
+corresponde ao card Fantasma do Espaço (BSAQ_001), 1/112 da coleção Ascensão e Queda (bsaq).
+
+<img src="https://raw.githubusercontent.com/inimig0r/bsdb-imagens/refs/heads/main/bsaq/BSAQ_001.png" width="200">
+
 
 ## 🎨 Cartas Fanmade (Conteúdo da Comunidade)
 
