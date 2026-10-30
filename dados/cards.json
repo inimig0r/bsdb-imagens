@@ -70070,5 +70070,38 @@
     "ERRATA": null,
     "FAQ": null,
     "VARIANTES": []
+  },
+  {
+    "ID_CARD": "FMBSUI_130",
+    "NOME": "Facção Destrutiva",
+    "ALTER_EGO": null,
+    "VERSAO": "V1",
+    "TIPO": "Habilidade",
+    "ENERGIA": null,
+    "ESCUDO": null,
+    "AFILIACAO": null,
+    "ALINHAMENTO": null,
+    "RARIDADE": null,
+    "NUMERACAO": "130/136 FM",
+    "ILUSTRADORES": "Yildiray Cinar",
+    "TEXTO": "Compartilhar - Super Força.",
+    "TEXTO_EV": null,
+    "ENERGIA_EXTRA": null,
+    "IMAGEM": "/cards/excelsior/fmbsui/FMBSUI_130.png",
+    "PODERES": [
+      "Super Força"
+    ],
+    "ACOES": [
+      {
+        "NOME": "FACÇÃO DESTRUTIVA",
+        "CUSTO": "2",
+        "TIPO": "Antecipação",
+        "PODER_DA_ACAO": "Super Força",
+        "TEXTO": "FACÇÃO DESTRUTIVA causa 3 pontos de dano no alvo."
+      }
+    ],
+    "ERRATA": null,
+    "FAQ": null,
+    "VARIANTES": []
   }
 ]
