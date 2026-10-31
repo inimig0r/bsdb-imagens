@@ -607,7 +607,7 @@
     "ID_CARD": "BSIC_002",
     "PODERES": [
       "Ataque energético",
-      "Telepatia",
+      "Telecinesia",
       "Voo"
     ],
     "ERRATA": null,
@@ -849,7 +849,7 @@
     "IMAGEM": "/bsca/BSCA_008.png",
     "ID_CARD": "BSCA_008",
     "PODERES": [
-      "Telepatia",
+      "Magia",
       "Poder Cósmico"
     ],
     "ERRATA": null,
@@ -863,7 +863,7 @@
     "ACOES": [
       {
         "NOME": "INVASÃO KREE",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "TEXTO": "Clarividência 3 - INVASÃO KREE causa 1 ponto de dano no alvo para cada tipo de card revelado nesta ação.",
         "TIPO": "Normal",
         "CUSTO": "1"
@@ -891,7 +891,7 @@
       "Ataque energético",
       "Elasticidade",
       "Genialidade",
-      "Telepatia"
+      "Telecinesia"
     ],
     "ERRATA": [
       "Os textos originais deste card foram modificados neste site para se adequarem aos novos formatos de textos com alternativas ( ́se e se não ́ ou (A), (B), etc.) que foram apresentados em Battle Scenes na coleção Confronto Aracnídeo BSCA."
@@ -906,7 +906,7 @@
     "ACOES": [
       {
         "NOME": "EVOLUÇÃO FORÇADA",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue um card de um personagem que você não controla ou carregue um card de seus recursos em um personagem que você controla.",
         "TIPO": "Preparação",
         "CUSTO": "1"
@@ -1593,7 +1593,7 @@
     "ACOES": [
       {
         "NOME": "ABALO SÍSMICO",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue um card que cada personagem que não seja da afiliação Irmandade de Mutantes estiver carregando (você escolhe os cards que serão descarregados).",
         "TIPO": "Normal",
         "CUSTO": "2"
@@ -1737,7 +1737,7 @@
     "RARIDADE": "Raro",
     "NUMERACAO": "8",
     "ILUSTRADORES": "Paco Diaz, Tomeu Morey",
-    "TEXTO": "Este personagem não pode ser alvo de ações de Magia. Quando um personagem com a afiliação Mestres do Terror entrar em cena sob seu controle, você pode incapacitar em 1 um personagem com a afiliação Mestres do Terror que você controla e que não seja aquele.",
+    "TEXTO": "Este personagem não pode ser alvo de ações de Telepatia. Quando um personagem com a afiliação Mestres do Terror entrar em cena sob seu controle, você pode incapacitar em 1 um personagem com a afiliação Mestres do Terror que você controla e que não seja aquele.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsiv/BSIV_008.png",
@@ -3648,7 +3648,7 @@
     "ACOES": [
       {
         "NOME": "PODERES OBSCUROS",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "TEXTO": "Clarividência 1 - Carregue um card de habilidade de seus recursos em um personagem vilão que você controla.",
         "TIPO": "Preparação/Antecipação",
         "CUSTO": "1"
@@ -3825,7 +3825,7 @@
     "ACOES": [
       {
         "TIPO": "Normal",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Escolha e descarregue um card que um personagem estiver carregando.",
         "CUSTO": "1",
         "NOME": "ATAQUE MUMMUDRAI"
@@ -4118,7 +4118,7 @@
     "ACOES": [
       {
         "NOME": "ABSORVER ESSÊNCIA",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Carregue um card de seus recursos neste personagem. Descarregue um card de um personagem ou suporte.",
         "TIPO": "Preparação",
         "CUSTO": "1"
@@ -4268,7 +4268,7 @@
     "ID_CARD": "BSMI_009",
     "PODERES": [
       "Ataque energético",
-      "Telepatia"
+      "Telecinesia"
     ],
     "ERRATA": null,
     "FAQ": null,
@@ -4532,7 +4532,7 @@
       {
         "NOME": "ENERGIA MÍSTICA",
         "PODER_DA_ACAO": "Magia",
-        "TEXTO": "Ação Única (este personagem não pode usar mais de uma ação chamada ENERGIA MÍSTICA por turno) - Clarividência 2 - Carregue um card de personagem ou um card de habilidade de Magia de seus recursos em um personagem que você controla. Este personagem (Clea) pode usar mais uma ação neste turno.",
+        "TEXTO": "Ação Única (este personagem não pode usar mais de uma ação chamada ENERGIA MÍSTICA por turno) - Clarividência 2 - Carregue um card de personagem com Magia ou um card de habilidade de Magia de seus recursos em um personagem que você controla. Este personagem (Clea) pode usar mais uma ação neste turno.",
         "TIPO": "Preparação/Antecipação",
         "CUSTO": "0"
       }
@@ -5132,7 +5132,7 @@
     "ACOES": [
       {
         "NOME": "CÃO TELEPATA",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Escolha e descarregue um card que estiver sendo carregado por um personagem que esteja carregando dois ou mais cards.",
         "TIPO": "Preparação",
         "CUSTO": "1"
@@ -6482,7 +6482,7 @@
         "NOME": "EVOCAÇÃO ESPIRITUAL",
         "CUSTO": "1",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "TEXTO": "Clarividência 2 - EVOCAÇÃO ESPIRITUAL causa 1 ponto de dano penetrante no alvo, ou você pode procurar por um card de habilidade com Item Mágico ou de um personagem com alter ego STEPHEN VINCENT STRANGE em seu deck, revele-o, carregue-o neste personagem e embaralhe seu deck."
       }
     ]
@@ -6506,7 +6506,7 @@
     "ID_CARD": "BSGC_012",
     "PODERES": [
       "Magia",
-      "Telepatia"
+      "Telecinesia"
     ],
     "ERRATA": null,
     "FAQ": null,
@@ -6569,7 +6569,7 @@
       {
         "NOME": "CIÊNCIAS OCULTAS",
         "PODER_DA_ACAO": "Magia",
-        "TEXTO": "Ação Única (este personagem não pode usar mais de uma ação chamada CIÊNCIAS OCULTAS por turno) - Clarividência 2 - Este personagem ganha Prontidão - ações de Telepatia até o final do turno. Este personagem pode usar mais uma ação de Telepatia neste turno. Você pode carregar um card de habilidade de Telepatia revelado nesta ação neste personagem. Se o fizer, aquele card não será colocado no topo de seu deck devido à Clarividência e você pode colocar um card carregado por este personagem no topo de seu deck.",
+        "TEXTO": "Ação Única (este personagem não pode usar mais de uma ação chamada CIÊNCIAS OCULTAS por turno) - Clarividência 2 - Este personagem ganha Prontidão - ações de Magia até o final do turno. Este personagem pode usar mais uma ação de Magia neste turno. Você pode carregar um card de habilidade de Magia revelado nesta ação neste personagem. Se o fizer, aquele card não será colocado no topo de seu deck devido à Clarividência e você pode colocar um card carregado por este personagem no topo de seu deck.",
         "TIPO": "Antecipação",
         "CUSTO": "0"
       }
@@ -6758,7 +6758,7 @@
     "RARIDADE": "Battle Box",
     "NUMERACAO": "16",
     "ILUSTRADORES": "Adi Granov",
-    "TEXTO": "Predador (toda vez que uma ação deste personagem causar dano em um ou mais personagens que você não controla, você pode carregar um card de seus recursos neste personagem). Toda vez que um personagem que um oponente controla usar uma ação tendo como alvo um personagem com Telepatia que você controla, você pode incapacitar aquele personagem em 1. Se o fizer, aquele personagem causa 1 ponto de dano penetrante no personagem que usou a ação.",
+    "TEXTO": "Predador (toda vez que uma ação deste personagem causar dano em um ou mais personagens que você não controla, você pode carregar um card de seus recursos neste personagem). Toda vez que um personagem que um oponente controla usar uma ação tendo como alvo um personagem com Predador que você controla, você pode incapacitar aquele personagem em 1. Se o fizer, aquele personagem causa 1 ponto de dano penetrante no personagem que usou a ação.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/battle_box/BATTLE_BOX_016.png",
@@ -8773,7 +8773,7 @@
     "ACOES": [
       {
         "TIPO": "Normal",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "CUSTO": "1",
         "NOME": "FORÇA FÊNIX",
         "TEXTO": "Escolha um poder ou um tipo de card entre cenário, suporte e personagem. Descarregue todos os cards de habilidade do poder escolhido ou todos os cards do tipo escolhido que cada outro personagem estiver carregando."
@@ -11896,7 +11896,7 @@
       {
         "TEXTO": "Descarregue um card de um personagem ou suporte, ou coloque um card de cenário que estiver em cena nos recursos de seu dono.",
         "NOME": "PROJEÇÃO MOLECULAR",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "CUSTO": "1",
         "TIPO": "Preparação/Antecipação"
       }
@@ -12635,7 +12635,7 @@
       {
         "NOME": "ESCOPETA INFERNAL",
         "PODER_DA_ACAO": "Ataque à distância",
-        "TEXTO": "Escolha uma opção. A) ESCOPETA INFERNAL causa 2 pontos de dano no alvo. B) ESCOPETA INFERNAL causa 4 pontos de dano no personagem alvo com Predador e/ou Telepatia.",
+        "TEXTO": "Escolha uma opção. A) ESCOPETA INFERNAL causa 2 pontos de dano no alvo. B) ESCOPETA INFERNAL causa 4 pontos de dano no personagem alvo com Predador e/ou Magia.",
         "TIPO": "Normal",
         "CUSTO": "1"
       }
@@ -13259,7 +13259,7 @@
       {
         "CUSTO": "1",
         "TEXTO": "Carregue um card no personagem alvo, ou carregue até dois cards no personagem alvo com afiliação Fugitivos (você deve carregar no personagem cards dos recursos de seu controlador).",
-        "PODER_DA_ACAO": "Telecinesia",
+        "PODER_DA_ACAO": "Elasticidade",
         "TIPO": "Antecipação",
         "NOME": "BOTANOPATIA"
       }
@@ -14415,7 +14415,7 @@
     "ID_CARD": "BSUM_021",
     "PODERES": [
       "Genialidade",
-      "Magia",
+      "Telecinesia",
       "Voo"
     ],
     "ERRATA": [
@@ -14435,7 +14435,7 @@
     "ACOES": [
       {
         "NOME": "FORÇA MAGNÉTICA",
-        "PODER_DA_ACAO": "Magia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Incapacite em 1 ou 2 o alvo de FORÇA MAGNÉTICA, ou devolva o alvo de FORÇA MAGNÉTICA para a mão de seu dono e descarregue os cards que ele estiver carregando, caso o alvo tenha Voo ou seja um suporte.",
         "CUSTO": "1",
         "TIPO": "Normal"
@@ -14454,7 +14454,7 @@
     "RARIDADE": "Super Raro",
     "NUMERACAO": "27",
     "ILUSTRADORES": "Jim Cheung, Mark Morales, Justin Ponsor",
-    "TEXTO": "MAGNETO não pode ser alvo de ações de Magia. Os personagens controlados por seus oponentes não podem usar ações de Ataque Energético.",
+    "TEXTO": "MAGNETO não pode ser alvo de ações de Telepatia. Os personagens controlados por seus oponentes não podem usar ações de Ataque Energético.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bset/BSET_027.png",
@@ -14693,7 +14693,7 @@
     "RARIDADE": "Comum",
     "NUMERACAO": "34",
     "ILUSTRADORES": "Brad Walker, Victor Olazaba, Will Quintana",
-    "TEXTO": "Cards não podem ser descarregados deste personagem pelo efeito de ações de Telepatia.",
+    "TEXTO": "Cards não podem ser descarregados deste personagem pelo efeito de ações de Telecinesia.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsos/BSOS_034.png",
@@ -15153,7 +15153,7 @@
         "NOME": "TECNOMANCIA",
         "PODER_DA_ACAO": "Magia",
         "CUSTO": "1",
-        "TEXTO": "Clarividência 2 - TECNOMANCIA causa 1 ponto de dano no alvo, ou TECNOMANCIA causa 2 pontos de dano no personagem alvo com Telepatia.",
+        "TEXTO": "Clarividência 2 - TECNOMANCIA causa 1 ponto de dano no alvo, ou TECNOMANCIA causa 2 pontos de dano no personagem alvo com Magia.",
         "TIPO": "Antecipação"
       }
     ]
@@ -15239,7 +15239,7 @@
     "ACOES": [
       {
         "NOME": "ILUSÃO TÁTIL",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "TEXTO": "Clarividência 1 - ILUSÃO TÁTIL causa 3 pontos de dano no personagem alvo.",
         "TIPO": "Normal",
         "CUSTO": "0"
@@ -16470,7 +16470,7 @@
         "TEXTO": "Clarividência X - CORRENTES INFERNAIS causa 3 pontos de dano em cada um de até X alvos diferentes.",
         "TIPO": "Normal",
         "NOME": "CORRENTES INFERNAIS",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "CUSTO": "X"
       }
     ]
@@ -17221,8 +17221,8 @@
         "NOME": "CRIATIVIDADE MÁGICA",
         "CUSTO": "0",
         "TIPO": "Preparação/Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
-        "TEXTO": "Procure em seu deck ou mão por um card de habilidade de Telepatia, revele-o, carregue-o neste personagem e embaralhe seu deck se tiver procurado ali. Este personagem pode usar a ação daquele card de habilidade neste turno."
+        "PODER_DA_ACAO": "N/A",
+        "TEXTO": "Procure em seu deck ou mão por um card de habilidade de Magia, revele-o, carregue-o neste personagem e embaralhe seu deck se tiver procurado ali. Este personagem pode usar a ação daquele card de habilidade neste turno."
       }
     ]
   },
@@ -17259,7 +17259,7 @@
     ],
     "ACOES": [
       {
-        "TEXTO": "Procure por um card de habilidade de Ataque energético, Super Força, Telepatia ou Voo em seu deck, revele-o e carregue-o neste personagem. Então descarregue um card deste personagem.",
+        "TEXTO": "Procure por um card de habilidade de Ataque energético, Super Força, Telecinesia ou Voo em seu deck, revele-o e carregue-o neste personagem. Então descarregue um card deste personagem.",
         "CUSTO": "2",
         "TIPO": "Antecipação",
         "NOME": "DETERMINAR PROCEDIMENTO",
@@ -18470,7 +18470,7 @@
     "RARIDADE": "Comum",
     "NUMERACAO": "33",
     "ILUSTRADORES": "Brandon Peterson",
-    "TEXTO": "Sempre que um personagem que você não controla usar uma ação de Telepatia, seu controlador deve descarregar um card daquele personagem que ele estiver carregando.",
+    "TEXTO": "Sempre que um personagem que você não controla usar uma ação de Ataque Energético, seu controlador deve descarregar um card daquele personagem que ele estiver carregando.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bspo/BSPO_033.png",
@@ -18489,7 +18489,7 @@
     ],
     "ACOES": [
       {
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TIPO": "Normal",
         "TEXTO": "PULSO MAGNÉTICO causa 2 pontos de dano no alvo.",
         "NOME": "PULSO MAGNÉTICO",
@@ -18896,7 +18896,7 @@
     "ID_CARD": "BSAQ_043",
     "PODERES": [
       "Agilidade",
-      "Magia",
+      "Regeneração",
       "Telepatia"
     ],
     "ERRATA": [
@@ -19133,7 +19133,7 @@
         "TEXTO": "Descarregue um card que um personagem estiver carregando. Todo o dano que seria causado por aquele personagem a este personagem (o personagem que usou esta ação) durante a Fase de Preparação do próximo turno é reduzido a 0.",
         "TIPO": "Normal",
         "NOME": "CRONOATAQUE",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "CUSTO": "1"
       }
     ]
@@ -20004,7 +20004,7 @@
     "ACOES": [
       {
         "NOME": "DRENAR ALMA",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "TEXTO": "Clarividência 4 (no início do efeito desta ação, separe os quatro cards do topo de seu deck, olhe-os e revele quantos quiser; no final do efeito desta ação, devolva aqueles cards para o topo de seu deck em qualquer ordem). Descarregue um card de um personagem. Você pode carregar um card de seus recursos neste personagem.",
         "TIPO": "Normal",
         "CUSTO": "1"
@@ -20598,7 +20598,7 @@
     "ACOES": [
       {
         "NOME": "RUÍDO ENLOUQUECEDOR",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue um card de um personagem.",
         "TIPO": "Normal",
         "CUSTO": "1"
@@ -20670,7 +20670,7 @@
     "PODERES": [
       "Elasticidade",
       "Magia",
-      "Telepatia"
+      "Telecinesia"
     ],
     "ERRATA": null,
     "FAQ": null,
@@ -21028,7 +21028,7 @@
     "ID_CARD": "BSCA_052",
     "PODERES": [
       "Magia",
-      "Telecinesia",
+      "Telepatia",
       "Voo"
     ],
     "ERRATA": null,
@@ -21042,7 +21042,7 @@
     "ACOES": [
       {
         "NOME": "SONO PROFUNDO",
-        "PODER_DA_ACAO": "Telecinesia",
+        "PODER_DA_ACAO": "Telepatia",
         "TEXTO": "SONO PROFUNDO causa X+2 pontos de dano no alvo. X é igual ao número de cards nos prêmios de seus oponentes (personagens que foram derrotados por seus oponentes).",
         "TIPO": "Normal",
         "CUSTO": "1"
@@ -23792,7 +23792,7 @@
       {
         "NOME": "TELEPORTAR COISAS",
         "TIPO": "Normal",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "CUSTO": "1",
         "TEXTO": "O oponente alvo revela a própria mão, escolhe um card de personagem ou suporte, coloca aquele card na base do seu próprio deck e então compra um card. Você pode descarregar os cards que este personagem (o personagem que usou esta ação) estiver carregando e devolvê-lo para a mão de seu dono."
       }
@@ -24248,7 +24248,7 @@
     "RARIDADE": "Super Raro",
     "NUMERACAO": "40",
     "ILUSTRADORES": "Mark Bagley, Andy Lanning, Paul Mounts",
-    "TEXTO": "Quando AMPLIFICADOR MENTAL entrar em cena, escolha um vilão que você controla. Enquanto AMPLIFICADOR MENTAL e o vilão escolhido estiverem em cena, o vilão escolhido ganha Telepatia e Telecinesia, e cada um dos outros personagens em cena perde Telepatia e Telecinesia.",
+    "TEXTO": "Quando AMPLIFICADOR MENTAL entrar em cena, escolha um vilão que você controla. Enquanto AMPLIFICADOR MENTAL e o vilão escolhido estiverem em cena, o vilão escolhido ganha Telecinesia e Telepatia, e cada um dos outros personagens em cena perde Telecinesia e Telepatia.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bset/BSET_040.png",
@@ -26060,7 +26060,7 @@
     "RARIDADE": "Raro",
     "NUMERACAO": "48",
     "ILUSTRADORES": "Chris Bachalo, Tim Townsend, Chris Bachalo",
-    "TEXTO": "Toda vez que um personagem com Telepatia que você controla fosse receber dano durante a Fase de Preparação de outro jogador, aquele dano torna-se 0. Ações com Clarividência que os personagens que você controla usarem ganham Clarividência +1. Durante sua Fase de Preparação, uma vez por turno, você pode permutar um card de habilidade de Telepatia que estiver sendo carregado por este suporte por um card que estiver sendo carregado por um personagem com Telepatia que você controla. Se o fizer, você pode colocar os dois cards do topo do seu deck nos seus recursos.",
+    "TEXTO": "Toda vez que um personagem com Magia que você controla fosse receber dano durante a Fase de Preparação de outro jogador, aquele dano torna-se 0. Ações com Clarividência que os personagens que você controla usarem ganham Clarividência +1. Durante sua Fase de Preparação, uma vez por turno, você pode permutar um card de habilidade de Magia que estiver sendo carregado por este suporte por um card que estiver sendo carregado por um personagem com Magia que você controla. Se o fizer, você pode colocar os dois cards do topo do seu deck nos seus recursos.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsds/BSDS_048.png",
@@ -27921,7 +27921,7 @@
     "RARIDADE": "Comum",
     "NUMERACAO": "52",
     "ILUSTRADORES": "Clay Mann, Danny Miki, Brian Reber",
-    "TEXTO": "Quando DESMATERIALIZAÇÃO IMPOSSÍVEL entrar em cena, se você controlar um personagem com Telepatia, você poderá incapacitar aquele personagem em 1. Se o fizer, escolha um card de habilidade que um personagem estiver carregando. Coloque aquele card na mão de seu dono.",
+    "TEXTO": "Quando DESMATERIALIZAÇÃO IMPOSSÍVEL entrar em cena, se você controlar um personagem com Telecinesia, você poderá incapacitar aquele personagem em 1. Se o fizer, escolha um card de habilidade que um personagem estiver carregando. Coloque aquele card na mão de seu dono.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bspo/BSPO_052.png",
@@ -29411,7 +29411,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "59",
     "ILUSTRADORES": "Marko Djurdjevic",
-    "TEXTO": "Quando um personagem com Telepatia entrar em cena sob seu controle, você pode incapacitar aquele personagem em 1 e colocar este cenário em seus recursos. Se o fizer, olhe os cinco cards do topo de seu deck e coloque-os no topo e/ou na base de seu deck em qualquer ordem. Compre dois cards.",
+    "TEXTO": "Quando um personagem com Magia entrar em cena sob seu controle, você pode incapacitar aquele personagem em 1 e colocar este cenário em seus recursos. Se o fizer, olhe os cinco cards do topo de seu deck e coloque-os no topo e/ou na base de seu deck em qualquer ordem. Compre dois cards.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsds/BSDS_059.png",
@@ -31039,7 +31039,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "68",
     "ILUSTRADORES": "Greg Land",
-    "TEXTO": "Quando um personagem com Telepatia entrar em cena sob seu controle, você pode incapacitar aquele personagem em 1 e colocar este cenário em seus recursos. Se o fizer, coloque os cinco cards do topo de um deck nos recursos de seus donos.",
+    "TEXTO": "Quando um personagem com Telecinesia entrar em cena sob seu controle, você pode incapacitar aquele personagem em 1 e colocar este cenário em seus recursos. Se o fizer, coloque os cinco cards do topo de um deck nos recursos de seus donos.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsfe/BSFE_068.png",
@@ -34976,7 +34976,7 @@
     "RARIDADE": "Super Raro",
     "NUMERACAO": "86",
     "ILUSTRADORES": "Jo Chen",
-    "TEXTO": "Item Único. Item Mágico. Enquanto este personagem tiver o alter ego Nico Minoru, as ações com Clarividência que ele usar ganham Clarividência +2 e você pode colocar um card do topo de seu deck nos seus recursos após esta ação. Enquanto este personagem tiver Telepatia, ele pode usar ações de quaisquer cards de habilidade que ele estiver carregando, mesmo que ele não tenha o poder daquelas ações. Toda vez que este personagem usar uma ação de um card de habilidade que não seja Item Mágico, se este personagem tiver Telepatia, após aquela ação coloque aquele card na base do deck de seu dono e carregue um card de seus recursos neste personagem.",
+    "TEXTO": "Item Único. Item Mágico. Enquanto este personagem tiver o alter ego Nico Minoru, as ações com Clarividência que ele usar ganham Clarividência +2 e você pode colocar um card do topo de seu deck nos seus recursos após esta ação. Enquanto este personagem tiver Magia, ele pode usar ações de quaisquer cards de habilidade que ele estiver carregando, mesmo que ele não tenha o poder daquelas ações. Toda vez que este personagem usar uma ação de um card de habilidade que não seja Item Mágico, se este personagem tiver Magia, após aquela ação coloque aquele card na base do deck de seu dono e carregue um card de seus recursos neste personagem.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsds/BSDS_086.png",
@@ -35442,7 +35442,7 @@
     "RARIDADE": "Super Raro",
     "NUMERACAO": "87",
     "ILUSTRADORES": "bill sienkiewicz",
-    "TEXTO": "Item Único (só pode haver uma cópia deste card em seu deck). Item Mágico (durante sua Fase de Preparação, você pode carregar este card de seus recursos em um personagem que você controla. Se o fizer, descarregue um card daquele personagem). Ações com Clarividência que este personagem usar ganham Clarividência +1. Toda vez que este personagem fosse receber dano fora da Etapa de Ataque, se ele tiver Telepatia, aquele dano torna-se 0.",
+    "TEXTO": "Item Único (só pode haver uma cópia deste card em seu deck). Item Mágico (durante sua Fase de Preparação, você pode carregar este card de seus recursos em um personagem que você controla. Se o fizer, descarregue um card daquele personagem). Ações com Clarividência que este personagem usar ganham Clarividência +1. Toda vez que este personagem fosse receber dano fora da Etapa de Ataque, se ele tiver Magia, aquele dano torna-se 0.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsds/BSDS_087.png",
@@ -35953,7 +35953,7 @@
     "RARIDADE": "Super Raro",
     "NUMERACAO": "88",
     "ILUSTRADORES": "Brandon Peterson, Justin Ponsor",
-    "TEXTO": "Ataque-Surpresa (no início da sua Etapa de Ataque, se este card estiver na sua mão, você pode revelá-lo; se o fizer, carregue este card em um personagem que você controla e descarregue um card daquele personagem). Quando este card for carregado de sua mão em um personagem com Telepatia que você controla, você pode procurar em seu deck ou recursos por um card de habilidade de Magia. Se o fizer, revele aquele card, carregue-o neste personagem e embaralhe seu deck se tiver procurado ali.",
+    "TEXTO": "Ataque-Surpresa (no início da sua Etapa de Ataque, se este card estiver na sua mão, você pode revelá-lo; se o fizer, carregue este card em um personagem que você controla e descarregue um card daquele personagem). Quando este card for carregado de sua mão em um personagem com Magia que você controla, você pode procurar em seu deck ou recursos por um card de habilidade de Magia. Se o fizer, revele aquele card, carregue-o neste personagem e embaralhe seu deck se tiver procurado ali.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsds/BSDS_088.png",
@@ -36312,7 +36312,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "89",
     "ILUSTRADORES": "Alvaro Lopez, Marcos Martin, Javier Rodriguez",
-    "TEXTO": "Enquanto este card estiver em seus recursos, os personagens com Telepatia que você controla podem usar a ação CONVERGÊNCIA ONÍRICA.",
+    "TEXTO": "Enquanto este card estiver em seus recursos, os personagens com Magia que você controla podem usar a ação CONVERGÊNCIA ONÍRICA.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsds/BSDS_089.png",
@@ -37444,7 +37444,7 @@
       {
         "NOME": "EM MEIO AO CAOS",
         "PODER_DA_ACAO": "Agilidade",
-        "TEXTO": "EM MEIO AO CAOS causa 1 ponto de dano no alvo, ou causa 2 pontos de dano no alvo se você controlar um personagem com Telepatia.",
+        "TEXTO": "EM MEIO AO CAOS causa 1 ponto de dano no alvo, ou causa 2 pontos de dano no alvo se você controlar um personagem com Telecinesia.",
         "TIPO": "Normal",
         "CUSTO": "1"
       }
@@ -37596,7 +37596,7 @@
       {
         "NOME": "ENCANTO DE PODER",
         "PODER_DA_ACAO": "Magia",
-        "TEXTO": "Clarividência 4 - Você pode carregar qualquer número de cards de habilidade de Agilidade revelados nesta ação em um personagem com Magia que você controla. Aqueles cards não serão colocados no topo de seu deck devido à Clarividência.",
+        "TEXTO": "Clarividência 4 - Você pode carregar qualquer número de cards de habilidade de Super Força revelados nesta ação em um personagem com Super Força que você controla. Aqueles cards não serão colocados no topo de seu deck devido à Clarividência.",
         "TIPO": "Preparação",
         "CUSTO": "1"
       }
@@ -37718,7 +37718,7 @@
       {
         "NOME": "ENERGIAS MÍSTICAS",
         "PODER_DA_ACAO": "Super Força",
-        "TEXTO": "ENERGIAS MÍSTICAS causa 3+X pontos de dano no alvo. X é igual ao número de outros personagens com Telepatia que você controla.",
+        "TEXTO": "ENERGIAS MÍSTICAS causa 3+X pontos de dano no alvo. X é igual ao número de outros personagens com Magia que você controla.",
         "TIPO": "Normal",
         "CUSTO": "1"
       }
@@ -38020,7 +38020,7 @@
     "RARIDADE": "Comum",
     "NUMERACAO": "93",
     "ILUSTRADORES": "Christian Ward",
-    "TEXTO": "Toda vez que este personagem fosse receber dano durante a Fase de Preparação de outro jogador, se ele tiver Telepatia, você pode colocar um card de habilidade dos seus recursos na base do seu deck. Se o fizer, aquele dano torna-se 0.",
+    "TEXTO": "Toda vez que este personagem fosse receber dano durante a Fase de Preparação de outro jogador, se ele tiver Magia, você pode colocar um card de habilidade de Magia dos seus recursos na base do seu deck. Se o fizer, aquele dano torna-se 0.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsfe/BSFE_093.png",
@@ -38987,7 +38987,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "90",
     "ILUSTRADORES": "Jo Chen",
-    "TEXTO": "Os outros personagens que você controla com Telepatia e com uma afiliação em comum com este personagem podem usar a ação FACÇÃO MORTAL.",
+    "TEXTO": "Os outros personagens que você controla com Lâminas e com uma afiliação em comum com este personagem podem usar a ação FACÇÃO MORTAL.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsaq/BSAQ_090.png",
@@ -39029,7 +39029,7 @@
     "RARIDADE": "Raro",
     "NUMERACAO": "90",
     "ILUSTRADORES": "Chris Stevens",
-    "TEXTO": "Enquanto este personagem tiver Telepatia, ele ganha Escudo +2.",
+    "TEXTO": "Enquanto este personagem tiver Magia, ele ganha Escudo +2.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsds/BSDS_090.png",
@@ -39440,7 +39440,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "82",
     "ILUSTRADORES": "Adam Kubert, Edgar Delgado",
-    "TEXTO": "Toda vez que este personagem usar uma ação de Ataque energético, se ele tiver Telepatia, você pode colocar até dois cards do topo do seu deck nos seus recursos.",
+    "TEXTO": "Toda vez que este personagem usar uma ação de Ataque energético, se ele tiver Telecinesia, você pode colocar até dois cards do topo do seu deck nos seus recursos.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsfe/BSFE_082.png",
@@ -44610,7 +44610,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "94",
     "ILUSTRADORES": "Leinil Francis Yu, Matt Milla",
-    "TEXTO": "Quando este card for colocado nos seus recursos vindo da sua mão, você pode escolher uma afiliação em comum com ao menos dois personagens que você controle. Se o fizer, procure em seu deck por um card de personagem com a afiliação escolhida e Telepatia, revele-o, coloque-o em sua mão e embaralhe o seu deck.",
+    "TEXTO": "Quando este card for colocado nos seus recursos vindo da sua mão, você pode escolher uma afiliação em comum com ao menos dois personagens que você controle. Se o fizer, procure em seu deck por um card de personagem com a afiliação escolhida e Magia, revele-o, coloque-o em sua mão e embaralhe o seu deck.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsfe/BSFE_094.png",
@@ -48162,7 +48162,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "76",
     "ILUSTRADORES": "Alan Davis, Mark Farmer, Jason Keith",
-    "TEXTO": "Se você controlar um personagem com Telecinesia, você pode usar todos os efeitos da ação TENTÁCULOS ALADOS, em vez de apenas um.",
+    "TEXTO": "Se você controlar um personagem com Voo, você pode usar todos os efeitos da ação TENTÁCULOS ALADOS, em vez de apenas um.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsic/BSIC_076.png",
@@ -48980,7 +48980,7 @@
     "RARIDADE": "Incomum",
     "NUMERACAO": "95",
     "ILUSTRADORES": "Lee Weeks, Lee Loughridge",
-    "TEXTO": "Se este personagem tiver Telecinesia, toda vez que um personagem que você controla usar uma ação de Telecinesia durante o turno de um oponente, coloque um card do topo de seu deck em seus recursos.",
+    "TEXTO": "Se este personagem tiver Telecinesia, toda vez que um personagem que você controla usar uma ação de Agilidade durante o turno de um oponente, coloque um card do topo de seu deck em seus recursos.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/bsic/BSIC_095.png",
@@ -49085,7 +49085,7 @@
         "NOME": "VENTOS DE WATOOMB",
         "CUSTO": "1",
         "TIPO": "Normal",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "TEXTO": "Clarividência 4 - VENTOS DE WATOOMB causa X pontos de dano no alvo. X é igual ao número de cards revelados nesta ação. Coloque os cards revelados desta forma na base de seu deck. Aqueles cards não serão colocados no topo de seu deck devido à Clarividência."
       }
     ]
@@ -49604,7 +49604,7 @@
       "Poder Cósmico",
       "Super Força",
       "Telecinesia",
-      "Genialidade"
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -49834,7 +49834,7 @@
     "ID_CARD": "FMBSEI_014",
     "PODERES": [
       "Poder Cósmico",
-      "Magia",
+      "Telecinesia",
       "Telepatia",
       "Voo"
     ],
@@ -49871,6 +49871,7 @@
     "PODERES": [
       "Poder Cósmico",
       "Telecinesia",
+      "Telepatia",
       "Voo"
     ],
     "ACOES": [
@@ -50097,7 +50098,7 @@
     "RARIDADE": null,
     "NUMERACAO": "91/95",
     "ILUSTRADORES": "Neil Edwards, Cory Hamscher, Jesus Aburtov",
-    "TEXTO": "Item Único. Recarregar - afiliação Deuses do Olimpo. Este personagem não pode ser alvo de ações de Magia. Toda vez que este personagem sofrer dano, se ele tiver a afiliação Deuses do Olimpo, você pode escolher quais cards serão descarregados dele.",
+    "TEXTO": "Item Único. Recarregar - afiliação Deuses do Olimpo. Este personagem não pode ser alvo de ações de Telepatia. Toda vez que este personagem sofrer dano, se ele tiver a afiliação Deuses do Olimpo, você pode escolher quais cards serão descarregados dele.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/fmbsei/FMBSEI_091.png",
@@ -50509,7 +50510,7 @@
         "NOME": "PODER INCOMPREENSÍVEL",
         "CUSTO": "2",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue dois cards deste personagem: Se este personagem não estiver carregando nenhum card de habilidade, descarregue até três cards que estiverem sendo carregados por personagens ou suportes."
       }
     ],
@@ -51179,7 +51180,7 @@
         "NOME": "MANIPULAÇÃO TEMPORAL",
         "CUSTO": "1",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Magia",
+        "PODER_DA_ACAO": "N/A",
         "TEXTO": "Olhe os dois cards do topo do seu deck, carregue um daqueles cards em um personagem que você controla e coloque o outro na sua mão. Descarregue um card de um personagem."
       }
     ],
@@ -52098,7 +52099,9 @@
     "ID_CARD": "FMBSEI_053",
     "PODERES": [
       "Poder Cósmico",
-      "Telecinesia"
+      "Regeneração",
+      "Telecinesia",
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -52277,14 +52280,14 @@
     "ID_CARD": "FMBSEI_056",
     "PODERES": [
       "Magia",
-      "Genialidade"
+      "Telepatia"
     ],
     "ACOES": [
       {
         "NOME": "ARTE DA SEDUÇÃO",
         "CUSTO": "1",
         "TIPO": "Preparação/Antecipação",
-        "PODER_DA_ACAO": "Genialidade",
+        "PODER_DA_ACAO": "Telepatia",
         "TEXTO": "Se a próxima ação que o personagem alvo usar neste turno tiver um ou mais alvos, você escolhe os alvos para aquela ação."
       }
     ],
@@ -54401,7 +54404,7 @@
         "NOME": "INFORMAÇÕES FUTURAS",
         "CUSTO": "1",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Magia",
         "TEXTO": "Clarividência 1 - INFORMAÇÕES FUTURAS causa 2 pontos de dano no alvo. Compre dois cards. Coloque um card da sua mão no topo de seu deck."
       }
     ],
@@ -54846,8 +54849,7 @@
     "PODERES": [
       "Agilidade",
       "Elasticidade",
-      "Regeneração",
-      "Telecinesia"
+      "Regeneração"
     ],
     "ACOES": [
       {
@@ -55446,7 +55448,7 @@
         "NOME": "MENTE GRUPAL",
         "CUSTO": "2",
         "TIPO": "Normal",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "N/A",
         "TEXTO": "Descarregue um card do personagem alvo."
       }
     ],
@@ -55697,7 +55699,7 @@
     "RARIDADE": "Fan Made",
     "NUMERACAO": "98/116",
     "ILUSTRADORES": "David Aja",
-    "TEXTO": "Quando este cenário entrar em cena, se você controlar três ou mais personagens com Magia (Clarividência), compre dois cards e, até o final do turno, toda vez que um personagem que você controla usar uma ação com Magia (Clarividência), aquela ação tem Magia (Clarividência) +1 e aquele personagem ganha Escudo +1.",
+    "TEXTO": "Quando este cenário entrar em cena, se você controlar três ou mais personagens com Magia, compre dois cards e, até o final do turno, toda vez que um personagem que você controla usar uma ação com Clarividência, aquela ação tem Clarividência +1 e aquele personagem ganha Escudo +1.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/fmbsfa/FMBSFA_098.png",
@@ -55726,14 +55728,14 @@
     "IMAGEM": "/fmbsfa/FMBSFA_051.png",
     "ID_CARD": "FMBSFA_051",
     "PODERES": [
-      "Telepatia"
+      "Telecinesia"
     ],
     "ACOES": [
       {
         "NOME": "ESCALA RICHTER",
         "CUSTO": "X",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Se X for 0, descarregue até um card que estiver sendo carregado por um suporte. Se X for 1, descarregue até um card que estiver sendo carregado por um personagem. Se X for 2, descarregue até dois cards que estiverem sendo carregados por personagens ou suportes."
       }
     ],
@@ -55870,7 +55872,7 @@
         "NOME": "SURTO ANIMAL",
         "CUSTO": "X",
         "TIPO": "Normal",
-        "PODER_DA_ACAO": "Telecinesia",
+        "PODER_DA_ACAO": "Lâminas",
         "TEXTO": "SURTO ANIMAL causa X+2 pontos de dano penetrante no alvo."
       }
     ],
@@ -57361,7 +57363,8 @@
     "ID_CARD": "FMBSID_027",
     "PODERES": [
       "Magia",
-      "Telecinesia"
+      "Telecinesia",
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -57552,7 +57555,8 @@
     "ID_CARD": "FMBSID_029",
     "PODERES": [
       "Magia",
-      "Super Força"
+      "Super Força",
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -57700,7 +57704,7 @@
     "RARIDADE": null,
     "NUMERACAO": "33/119",
     "ILUSTRADORES": "Nic Klein, Matthew Wilson",
-    "TEXTO": "Durante sua Fase de Preparação, uma vez por turno, você pode procurar em seu deck ou recursos por um card de habilidade chamado SIMBIONTE - ESCURIDÃO. Se o fizer, revele aquele card, e carregue-o neste personagem.\nNo início de cada Fase de Combate, você pode descartar um card. Se o fizer, toda vez que uma ação deste personagem fosse causar dano em um ou mais alvos neste turno, ela causará aquela quantidade de dano +1 em cada um de seus alvos.\nSe este personagem nocautear um personagem ao usar uma ação, este personagem pode usar mais uma ação neste turno.\nEnquanto este personagem estiver carregando um card de habilidade chamado SIMBIONTE - ESCURIDÃO, ele ganha Magia, Lâminas, Regeneração, Super Força e Predador.",
+    "TEXTO": "Durante sua Fase de Preparação, uma vez por turno, você pode procurar em seu deck ou recursos por um card de habilidade chamado SIMBIONTE - ESCURIDÃO. Se o fizer, revele aquele card, e carregue-o neste personagem.\nNo início de cada Fase de Combate, você pode descartar um card. Se o fizer, toda vez que uma ação deste personagem fosse causar dano em um ou mais alvos neste turno, ela causará aquela quantidade de dano +1 em cada um de seus alvos.\nSe este personagem nocautear um personagem ao usar uma ação, este personagem pode usar mais uma ação neste turno.\nEnquanto este personagem estiver carregando um card de habilidade chamado SIMBIONTE - ESCURIDÃO, ele ganha Elasticidade, Lâminas, Regeneração, Super Força e Predador.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/fmbsid/FMBSID_033.png",
@@ -58183,7 +58187,7 @@
     "RARIDADE": null,
     "NUMERACAO": "44/119",
     "ILUSTRADORES": "Javier Garrón, Jason Keith",
-    "TEXTO": "Este personagem não pode ser colocado em cena. Durante a sua Fase de preparação, você pode revelar este card de sua mão e colocar um card de personagem com Energia Inicial 4 e Magia dos prêmios de seus oponentes em sua mão. Se o fizer, coloque este card nos prêmios de seus oponentes. Enquanto este card estiver nos prêmios de seus oponentes, no início de cada Fase de Combate, você pode escolher um personagem com Energia Inicial 4 e Magia ou um personagem com a afiliação Deuses do Egito que você controla. Se o fizer, você pode carregar um card dos seus recursos naquele personagem e, até o final do turno, a próxima ação com alvo que aquele personagem usar causará 1 ponto de dano a cada um de seus alvos além de seus outros efeitos.",
+    "TEXTO": "Este personagem não pode ser colocado em cena. Durante a sua Fase de preparação, você pode revelar este card de sua mão e colocar um card de personagem com Energia Inicial 4 e Agilidade dos prêmios de seus oponentes em sua mão. Se o fizer, coloque este card nos prêmios de seus oponentes. Enquanto este card estiver nos prêmios de seus oponentes, no início de cada Fase de Combate, você pode escolher um personagem com Energia Inicial 4 e Agilidade ou um personagem com a afiliação Deuses do Egito que você controla. Se o fizer, você pode carregar um card dos seus recursos naquele personagem e, até o final do turno, a próxima ação com alvo que aquele personagem usar causará 1 ponto de dano a cada um de seus alvos além de seus outros efeitos.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/fmbsid/FMBSID_044.png",
@@ -58319,9 +58323,7 @@
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/fmbsid/FMBSID_083.png",
     "ID_CARD": "FMBSID_083",
-    "PODERES": [
-      "Telepatia"
-    ],
+    "PODERES": [],
     "ACOES": [],
     "ERRATA": null,
     "FAQ": null,
@@ -58381,7 +58383,8 @@
     "PODERES": [
       "Agilidade",
       "Genialidade",
-      "Magia"
+      "Magia",
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -58813,7 +58816,8 @@
     "PODERES": [
       "Ataque Energético",
       "Magia",
-      "Telecinesia"
+      "Telecinesia",
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -60602,7 +60606,7 @@
         "NOME": "ENVENENAR ADVERSÁRIO",
         "CUSTO": "1",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Magia",
+        "PODER_DA_ACAO": "N/A",
         "TEXTO": "Descarregue um card de um personagem e revele um card do topo de seu deck. Se o card revelado for do mesmo tipo do card descarregado daquele personagem, você pode descarregar mais um card daquele personagem."
       }
     ],
@@ -60955,7 +60959,7 @@
     "RARIDADE": null,
     "NUMERACAO": "22",
     "ILUSTRADORES": "Jim Towe, Sean Parsons, Cam Smith, Brian Reber",
-    "TEXTO": "Aprimoramento. Enquanto os personagens com a afiliação Gangue da Demolição que você controla estiverem carregando um ou mais cards de habilidade de Magia, eles podem usar a ação LIGAÇÃO MÍSTICA. Os personagens com a afiliação Gangue da Demolição que você controla ganham Energia Inicial +X. X é igual ao número de cards de habilidade de Magia que eles estiverem carregando.",
+    "TEXTO": "Aprimoramento. Enquanto os personagens com a afiliação Gangue da Demolição que você controla estiverem carregando um ou mais cards de habilidade de Super Força, eles podem usar a ação LIGAÇÃO MÍSTICA. Os personagens com a afiliação Gangue da Demolição que você controla ganham Energia Inicial +X. X é igual ao número de cards de habilidade de Super Força que eles estiverem carregando.",
     "TEXTO_EV": null,
     "ENERGIA_EXTRA": null,
     "IMAGEM": "/fmbspe/FMBSPE_022.png",
@@ -60968,7 +60972,7 @@
         "NOME": "LIGAÇÃO MÍSTICA",
         "CUSTO": "1",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Magia",
+        "PODER_DA_ACAO": "N/A",
         "TEXTO": "LIGAÇÃO MÍSTICA causa 2 pontos de dano distribuídos da forma como você escolher entre até dois alvos diferentes."
       }
     ],
@@ -61996,7 +62000,7 @@
         "NOME": "EXPLORAR FRAQUEZAS",
         "CUSTO": "1",
         "TIPO": "Normal",
-        "PODER_DA_ACAO": "Telecinesia",
+        "PODER_DA_ACAO": "N/A",
         "TEXTO": "Escolha uma opção, Ⓐ EXPLORAR FRAQUEZAS causa 2 pontos de dano no alvo; Ⓑ EXPLORAR FRAQUEZAS causa 2 pontos de dano penetrante no alvo com ⚛."
       }
     ],
@@ -62840,7 +62844,7 @@
     "PODERES": [
       "Magia",
       "Super Força",
-      "Genialidade",
+      "Telepatia",
       "Voo"
     ],
     "ACOES": [
@@ -63022,8 +63026,8 @@
     "ID_CARD": "FMBSPI_035",
     "PODERES": [
       "Poder Cósmico",
+      "Telecinesia",
       "Telepatia",
-      "Genialidade",
       "Voo"
     ],
     "ACOES": [
@@ -63697,7 +63701,9 @@
     "IMAGEM": "/fmbspi/FMBSPI_050.png",
     "ID_CARD": "FMBSPI_050",
     "PODERES": [
-      "Magia"
+      "Magia",
+      "Regeneração",
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -64479,8 +64485,8 @@
     "IMAGEM": "/fmbspi/FMBSPI_062.png",
     "ID_CARD": "FMBSPI_062",
     "PODERES": [
-      "Telepatia",
-      "Genialidade"
+      "Telecinesia",
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -65674,7 +65680,7 @@
     "ID_CARD": "FMBSPI_DECK_002",
     "PODERES": [
       "Elasticidade",
-      "Genialidade",
+      "Telepatia",
       "Voo"
     ],
     "ACOES": [
@@ -65922,7 +65928,7 @@
     "RARIDADE": null,
     "NUMERACAO": "2/136",
     "ILUSTRADORES": "John Romita Jr, Scott Hanna, Laura Martin",
-    "TEXTO": "Enquanto estiver em seu deck, mão, cena ou recursos, este card também conta como se fosse um card de personagem chamado Homem de Ferro.\nQuando este personagem entrar em cena, descarregue até dois cards de um personagem com Telepatia controlado por um oponente.",
+    "TEXTO": "Enquanto estiver em seu deck, mão, cena ou recursos, este card também conta como se fosse um card de personagem chamado Homem de Ferro.\nQuando este personagem entrar em cena, descarregue até dois cards de um personagem com Telecinesia controlado por um oponente.",
     "TEXTO_EV": "EV - PERSONAGEM CHAMADO HOMEM DE FERRO",
     "ENERGIA_EXTRA": "+4",
     "IMAGEM": "/fmbsui/FMBSUI_002.png",
@@ -65939,7 +65945,7 @@
         "CUSTO": "2",
         "TIPO": "Normal",
         "PODER_DA_ACAO": "Ataque a Distância",
-        "TEXTO": "Escolha uma opção, Ⓐ ULTRA DISPARO causa 5 pontos de dano penetrante no alvo com Ataque a Distância; Ⓑ ULTRA DISPARO causa 5 pontos de dano no alvo."
+        "TEXTO": "Escolha uma opção, Ⓐ ULTRA DISPARO causa 5 pontos de dano penetrante no alvo com Telecinesia; Ⓑ ULTRA DISPARO causa 5 pontos de dano no alvo."
       }
     ],
     "ERRATA": null,
@@ -66156,7 +66162,7 @@
         "NOME": "MUTANTES NUNCA MAIS",
         "CUSTO": "X",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue até X+1 cards que personagens ou suportes estiverem carregando. Até X personagens alvo perdem as suas afiliações até o final deste turno."
       }
     ],
@@ -67008,8 +67014,8 @@
     "ID_CARD": "FMBSUI_027",
     "PODERES": [
       "Magia",
+      "Telecinesia",
       "Telepatia",
-      "Ataque Energético",
       "Voo"
     ],
     "ACOES": [
@@ -67731,7 +67737,7 @@
         "NOME": "ENERGIA PSIÔNICA",
         "CUSTO": "1",
         "TIPO": "Preparação/Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue um card carregado por um personagem ou suporte. Você pode carregar um card dos seus recursos em um personagem que você controla."
       }
     ],
@@ -67826,6 +67832,7 @@
     "IMAGEM": "/fmbsui/FMBSUI_047.png",
     "ID_CARD": "FMBSUI_047",
     "PODERES": [
+      "Telecinesia",
       "Telepatia"
     ],
     "ACOES": [
@@ -67833,7 +67840,7 @@
         "NOME": "ENERGIA PSIÔNICA",
         "CUSTO": "1",
         "TIPO": "Preparação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Coloque um card do topo de seu deck em seus recursos e escolha uma opção, Ⓐ carregue um card dos seus recursos em um personagem que você controla; Ⓑ descarregue um card de um personagem."
       }
     ],
@@ -68019,7 +68026,7 @@
         "NOME": "DESLIGAR GRAVIDADE",
         "CUSTO": "2",
         "TIPO": "Preparação/Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Escolha uma opção, Ⓐ descarregue até dois cards que estiverem sendo carregados por personagens; Ⓑ descarregue um suporte em cena e devolva-o para a mão de seu dono."
       }
     ],
@@ -68053,7 +68060,7 @@
         "NOME": "ENTIDADE PSIÔNICA",
         "CUSTO": "1",
         "TIPO": "Preparação/Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue até dois cards que estiverem sendo carregados por outros personagens e então descarregue os cards que este personagem estiver carregando e embaralhe-o em seu deck."
       }
     ],
@@ -68172,7 +68179,6 @@
     "IMAGEM": "/fmbsui/FMBSUI_056.png",
     "ID_CARD": "FMBSUI_056",
     "PODERES": [
-      "Telecinesia",
       "Agilidade",
       "Genialidade",
       "Super Força",
@@ -68522,7 +68528,7 @@
         "NOME": "ONDAS DE CHOQUE",
         "CUSTO": "1",
         "TIPO": "Preparação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue um card de um personagem. Você pode colocar até X cards do topo do deck de um jogador nos recursos do dono. X é igual ao valor de Escudo atual daquele personagem."
       }
     ],
@@ -68985,7 +68991,7 @@
     "PODERES": [
       "Magia",
       "Telecinesia",
-      "Genialidade"
+      "Telepatia"
     ],
     "ACOES": [
       {
@@ -69292,7 +69298,7 @@
         "NOME": "MANIPULAÇÃO GENÉTICA",
         "CUSTO": "1",
         "TIPO": "Antecipação",
-        "PODER_DA_ACAO": "Telepatia",
+        "PODER_DA_ACAO": "Telecinesia",
         "TEXTO": "Descarregue até três cards que estiverem sendo carregados por personagens."
       }
     ],
@@ -69319,6 +69325,7 @@
     "ID_CARD": "FMBSUI_078",
     "PODERES": [
       "Regeneração",
+      "Telecinesia",
       "Telepatia"
     ],
     "ACOES": [
@@ -69326,7 +69333,7 @@
         "NOME": "SUPRIMIR PODER",
         "CUSTO": "2",
         "TIPO": "Preparação/Antecipação",
-        "PODER_DA_ACAO": "Telecinesia",
+        "PODER_DA_ACAO": "Telepatia",
         "TEXTO": "O personagem alvo perde todos os seus poderes até o final do turno."
       }
     ],
